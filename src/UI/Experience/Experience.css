@@ -1,0 +1,29 @@
+.containerExperience{
+    display: flex;
+   
+    
+
+}
+.containerEx{
+
+   height: 12rem;
+   width: 10rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   padding: 0;
+}
+
+
+.barras{
+    width: 3rem;
+    height: 1rem;
+    margin: 0;
+    padding: 0;
+}
+.pExperience{
+    color: black;
+    padding: 0;
+    margin: 0;
+}
